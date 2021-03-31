@@ -1,6 +1,6 @@
 ### Getting to know Rina 👋
 
-- ✅ From <b>June to September</b> 2020, I used <b>Bitbucket</b> in Internship<p>
+- ✅ I used <b>Bitbucket</b> in Internship from <b>Jun to Sep</b> 2020<p>
 - 😉 I’m a <b>2nd year BCIT</b> student in <b>Digital Design and Development</b></p>
 - 😀 I’m studying <b>Front-end Development</b> and <b>UI/UX design</b></p>
 - 🎓 My expected graduation date is <b>May 2021</b></p>
