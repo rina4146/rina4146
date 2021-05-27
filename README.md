@@ -1,12 +1,10 @@
 ### Getting to know Rina 👋
 
-- ✅ I used <b>Bitbucket</b> in Internship from <b>Jun to Sep</b> 2020<p>
-- 😉 I’m a <b>2nd year BCIT</b> student in <b>Digital Design and Development</b></p>
-- 😀 I’m studying <b>Front-end Development</b> and <b>UI/UX design</b></p>
-- 🎓 My expected graduation date is <b>May 2021</b></p>
+- 😀 I’m studying <b>Front-end Development</b> at BCIT of <b>Digital Design and Development</b></p>
 - 🖥 My strength is <b>React</b> and <b>React Native</b></p>
 - 🥰 I’m volunteering as a <b>Tech Communication Meetup Staff</b> in [Korean Developer & Designer Meetup](https://www.meetup.com/Vancouver-KDD) in Vancouver</p> 
 - 📫 How to reach me:<a href=“https://www.linkedin.com/in/rina-han/”> [LinkedIn](https://www.linkedin.com/in/rina-han/)</p>
+- - ✅ I used <b>Bitbucket</b> in Internship from <b>Jun to Sep</b> 2020<p>
 
 
 
