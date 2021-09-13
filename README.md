@@ -1,12 +1,10 @@
 ### Get to know me 👋
 
-- 👩 I'm working as a <b>Front-end Web Developer</b> at [Techies of Tomorrow](https://www.bcit.ca/business-media/industry-services/techies-of-tomorrow/), <b>BCIT</b></p>
+- 👩 I'm working as a <b>Front-end Web Developer</b> at [Techies of Tomorrow](https://www.bcit.ca/business-media/industry-services/techies-of-tomorrow/)</p>
 - 🎓 I studied <b>Front-end Development</b> at <b>BCIT</b></p>
-- 🖥 My strength is <b>React.js, Next.js, and JavaScript</b></p>
+- 🖥 My strength is <b>React.js</b></p>
 - 🥰 I’m volunteering as a <b>Tech Communication Moderator</b> in [Korean Developer Meetup's](https://www.meetup.com/Vancouver-KDD) in Vancouver</p> 
 - 📫 You can find me on: [LinkedIn](https://www.linkedin.com/in/rina-han/)</p>
-- ✅ I used <b>Bitbucket</b> from <b>Jun to Sep</b> 2020, during my summer internship <p>
-
 
 
 <!--
